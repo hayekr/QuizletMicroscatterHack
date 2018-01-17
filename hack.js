@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Quizlet micromatch bot
-// @namespace    Danielv123
+// @namespace    Robert Hayek
 // @version      3.1
 // @description  Win micromatch in < 100 seconds!
 // @author       You
